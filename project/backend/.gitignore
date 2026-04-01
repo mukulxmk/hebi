@@ -1,0 +1,12 @@
+# Python virtual environment
+ven/
+.ven/
+
+# Other common Python files to ignore (optional, but recommended)
+__pycache__
+*.pyc
+.Python
+env/
+build/
+dist/
+*.egg-info/
